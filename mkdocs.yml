@@ -1,10 +1,11 @@
 site_name: BlindFriendly
-site_url: https://blindfriendly.ru
+site_url: https://blindfriendly.ru/
+site_description: Каталог сервисов и приложений для слепых и слабовидящих
+site_author: kirshmelev
 theme:
+  locale: ru
   features:
     - navigation.instant
     - header.autohide
-  custom_dir: overrides
   name: bootstrap
-  language: ru
 copyright: "&copy; , 2024, Шмелев Кирилл Андреевич"
