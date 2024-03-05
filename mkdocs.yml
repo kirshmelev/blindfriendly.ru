@@ -1,0 +1,10 @@
+site_name: BlindFriendly — каталог сервисов и приложений в помощь незрячим
+site_url: https://blindfriendly.ru
+theme:
+  features:
+    - navigation.instant
+    - header.autohide
+  custom_dir: overrides
+  name: bootstrap
+  language: ru
+copyright: "&copy; , 2024, Шмелев Кирилл Андреевич"
