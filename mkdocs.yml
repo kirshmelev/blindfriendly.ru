@@ -2,6 +2,8 @@ site_name: BlindFriendly
 site_url: https://blindfriendly.ru/
 site_description: Каталог сервисов и приложений для слепых и слабовидящих
 site_author: kirshmelev
+repo_url: https://github.com/kirshmelev/blindfriendly.ru/
+edit_uri_template: 'https://github.com/kirshmelev/blindfriendly.ru/edit/main/docs/{path}'
 theme:
   locale: ru
   features:
