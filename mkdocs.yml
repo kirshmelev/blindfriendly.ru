@@ -10,4 +10,5 @@ theme:
     - navigation.instant
     - header.autohide
   name: bootstrap
-copyright: "&copy; , 2024, Шмелев Кирилл Андреевич"
+copyright: "&copy; , 2024, Шмелев Кирилл Андреевич
+Сайт создан и поддерживается [Кириллом Шмелевым](https://kirshmelev.ru/) при поддержке проекта [Мир иначе](https://vk.com/mirnezryachih) и неравнодушных пользователей"
