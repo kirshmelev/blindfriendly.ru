@@ -7,7 +7,7 @@
 
 **Ссылки на Приложение:**
 
-- [Android}(https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes)
+- [Android](https://play.google.com/store/apps/details?id=com.bemyeyes.bemyeyes)
 - [iOS](https://apps.apple.com/app/apple-store/id905177575)
 
 ## Описание
