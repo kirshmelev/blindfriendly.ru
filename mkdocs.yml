@@ -6,8 +6,8 @@ repo_url: "https://github.com/kirshmelev/blindfriendly.ru"
 edit_uri_template: 'https://github.com/kirshmelev/blindfriendly.ru/edit/main/docs/{path}'
 copyright: '&copy; 2024, Шмелев Кирилл Андреевич <br/>Сайт создан и поддерживается <a href="https://kirshmelev.ru/">Кириллом Шмелевым</a> при поддержке проекта <a href="https://vk.com/mirnezryachih">Мир иначе</a> и неравнодушных людей'
 theme:
-  name: null
-  custom_dir: cinder
-  colorscheme: gruvbox-light
+  name: cinder
+  colorscheme: kimbie-dark
   highlightjs: false
   disable_nav_search: true
+  locale: ru
