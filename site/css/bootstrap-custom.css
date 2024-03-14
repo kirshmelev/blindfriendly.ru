@@ -5307,3 +5307,7 @@ label, .control-label, .help-block, .checkbox, .radio {
 .affix {
     position: fixed;
 }
+
+.navbar-fixed-top {
+    border: none;
+}

@@ -21,6 +21,7 @@ ul.nav li.third-level {
 
 div.col-md-3 {
     padding-left: 0;
+
 }
 
 div.col-md-9 {
@@ -39,6 +40,7 @@ div.source-links {
  */
 
 /* By default it's not affixed in mobile views, so undo that */
+
 .bs-sidebar.affix {
     position: static;
 }
