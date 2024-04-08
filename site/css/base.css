@@ -2,10 +2,6 @@ html {
     scroll-padding-top: 70px;
 }
 
-body {
-    padding-top: 70px;
-}
-
 p > img {
     max-width: 100%;
     height: auto;
@@ -91,6 +87,9 @@ div.source-links {
 
 /* Show and affix the side nav when space allows it */
 @media (min-width: 992px) {
+    .col-md-3 {
+        position: sticky; top: 20px;
+    }
     .bs-sidebar .nav > .active > ul {
         display: block;
     }
@@ -100,8 +99,6 @@ div.source-links {
         width: 213px;
     }
     .bs-sidebar.affix {
-        position: fixed; /* Undo the static from mobile first approach */
-        top: 80px;
         max-height: calc(100% - 180px);
         overflow-y: auto;
     }
