@@ -2,37 +2,42 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://blindfriendly.ru/</loc>
-         <lastmod>2024-04-08</lastmod>
+         <lastmod>2024-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blindfriendly.ru/entertainment/</loc>
-         <lastmod>2024-04-08</lastmod>
+         <lastmod>2024-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blindfriendly.ru/innovations/</loc>
-         <lastmod>2024-04-08</lastmod>
+         <lastmod>2024-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blindfriendly.ru/it/</loc>
-         <lastmod>2024-04-08</lastmod>
+         <lastmod>2024-06-13</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>https://blindfriendly.ru/screenreades/</loc>
+         <lastmod>2024-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blindfriendly.ru/study/</loc>
-         <lastmod>2024-04-08</lastmod>
+         <lastmod>2024-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blindfriendly.ru/texttospeach/</loc>
-         <lastmod>2024-04-08</lastmod>
+         <lastmod>2024-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://blindfriendly.ru/vision/</loc>
-         <lastmod>2024-04-08</lastmod>
+         <lastmod>2024-06-13</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
